@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif; /* Sets a common, readable font */
+    margin: 0; /* Removes default body margin */
+    padding: 0; /* Removes default body padding */
+    line-height: 1.6; /* Improves readability of text */
+    color: #333; /* Sets a dark grey color for most text */
+    background-color: #a00e0e; /* Sets a light grey background color for the entire page */
+}
