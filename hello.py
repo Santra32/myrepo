@@ -1,4 +1,4 @@
-number = int(input("Enter a number: "))
+number = 20
 if number > 10:
     print("Your number is greater than 10.")
 elif number == 10:
