@@ -1,4 +1,4 @@
-number = 5
+number = 92
 if number > 10:
     print("Your number is greater than 10.")
 elif number == 10:
